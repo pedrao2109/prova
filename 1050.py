@@ -1,5 +1,5 @@
 brasilia = 61
-salvador = 71
+Salvador = 71
 Sao_Paulo = 11
 Rio_de_Janeiro = 21
 Juiz_de_Fora = 32
@@ -16,13 +16,13 @@ elif ddd == 71:
     print("Salvador")
     
 elif ddd == 11:
-    print("Sao_Paulo")
+    print("Sao Paulo")
     
 elif ddd == 21:
-    print("Rio_de_Janeiro")
+    print("Rio de Janeiro")
     
 elif ddd == 32:
-    print("Juiz_de_Fora")
+    print("Juiz de Fora")
     
 elif ddd == 27:
     print("Vitoria")
@@ -31,6 +31,6 @@ elif ddd == 19:
     print("Campinas")
        
 elif ddd == 31:
-    print("Belo_Horizonte")
+    print("Belo Horizonte")
 else:
-    print("DDD não cadastrado")
+    print("DDD nao cadastrado")
