@@ -8,5 +8,5 @@ if n <10000:
             dentro = dentro+1
         else:
             fora = fora+1
-print(f"{fora} out")
 print(f"{dentro} in")
+print(f"{fora} out")
